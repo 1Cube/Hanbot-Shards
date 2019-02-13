@@ -3,7 +3,7 @@
 ## Guides:
 1.Download *.obj file.
 
-2.Delete old files from your script folder. eg: hanbot++/lol-nd/scrips/[Hex]Yasuo [Neverdie]
+2.Delete old files from your script folder. eg: hanbot++/lol-nd/scripts/[Hex]Yasuo [Neverdie]
 
 3.Create a folder named "shards" in lol-nd (or lol-cn). eg: hanbot++/lol-nd/shards/
 
